@@ -1,4 +1,4 @@
-# basketball scoresheet
+# Basketball Scoresheet
 
 ## Project setup
 ```
